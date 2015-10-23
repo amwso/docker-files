@@ -1,0 +1,1 @@
+FROM amwso/docker:latest
