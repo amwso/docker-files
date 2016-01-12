@@ -1,1 +1,1 @@
-FROM amwso/docker:latest
+FROM amwso/nginx-proxy:latest
